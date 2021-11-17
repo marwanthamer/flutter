@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>415666716556-b6j75748vhbna762igdanujfconu4drb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.415666716556-b6j75748vhbna762igdanujfconu4drb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_Z2a7aK00Zidvw_xeZ_C_CC03Am_RgGE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415666716556</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marwan.messagemeapp</string>
+	<key>PROJECT_ID</key>
+	<string>inboxme-f8d84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inboxme-f8d84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415666716556:ios:7a1045fc0b6207e969e0a9</string>
+</dict>
+</plist>
