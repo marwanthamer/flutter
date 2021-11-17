@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415666716556",
+    "project_id": "inboxme-f8d84",
+    "storage_bucket": "inboxme-f8d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415666716556:android:a7393da1e0d4057969e0a9",
+        "android_client_info": {
+          "package_name": "com.marwan.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415666716556-dp1li6sfphk9vcictgulgclelilv4qvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLZKI3vEWnMkIq4iHAI0e6-M01I5uDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415666716556-dp1li6sfphk9vcictgulgclelilv4qvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
